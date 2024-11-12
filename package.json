@@ -1,0 +1,20 @@
+{
+  "name": "astro-vona",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/check": "^0.9.4",
+    "astro": "^4.16.10",
+    "gsap": "^3.12.5",
+    "lenis": "^1.1.16",
+    "split-type": "^0.3.4",
+    "typescript": "^5.6.3"
+  }
+}
